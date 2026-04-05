@@ -1,0 +1,33 @@
+
+h1{
+    color: crimson;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    background-color: bisque;
+    text-shadow: 3px 4px 2px rgba(0,0,0,0.6);
+
+}
+
+h2{
+   font-family: 'Courier New', Courier, monospace;
+   background-color: blanchedalmond;
+   width: 270px;
+}
+
+h3{
+font-family: 'Courier New', Courier, monospace;
+   background-color: blanchedalmond;
+   width: 270px;
+}
+
+h4{
+       font-family: 'Courier New', Courier, monospace;
+   background-color: blanchedalmond;
+   width: 270px;
+}
+
+img {
+    width: 500px;
+    height: 500px;
+border-radius: 25px 25px 25px 25px;
+}
