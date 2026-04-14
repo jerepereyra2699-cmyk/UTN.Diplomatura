@@ -1,0 +1,38 @@
+.BoxPrinc {
+  width: 600px;
+  height: 600px;
+  border: 2px solid black;
+  display: flex;
+  flex-direction: row-reverse;
+  align-items: center;
+}
+
+.BoxRojo {
+  width: 200px;
+  height: 200px;
+  background-color: red;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.BoxAzul {
+  width: 200px;
+  height: 200px;
+  background-color: blue;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.BoxVerde {
+  width: 200px;
+  height: 200px;
+  background-color: green;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
