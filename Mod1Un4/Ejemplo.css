@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+IE:wght@100..400&display=swap');
+
 h1{
     color: azure;
     background-color: chocolate;
@@ -42,4 +44,9 @@ h1{
   font-family: "Open Sans", sans-serif;
   font-optical-sizing: auto;
 
+}
+
+.Subtitulo{
+    color: blueviolet;
+    font-family: "Playwrite IE", cursive;
 }
