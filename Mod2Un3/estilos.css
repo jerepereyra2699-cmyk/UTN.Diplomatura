@@ -1,0 +1,28 @@
+
+.container-fluid{
+    background-color: lightblue;
+    padding: 5px;
+}
+
+.container{
+    background-color: aliceblue;
+}
+.Tarjetas {
+  display: flex;
+  justify-content: space-between;
+  margin: 70px;
+}
+
+
+.formulario {
+  background-color: lightblue;
+  padding: 15px;
+  display: flex;
+  align-items: end;
+}
+
+.formulario .titulo {
+   margin-bottom: 280px;
+   align-items:start ;
+
+}
