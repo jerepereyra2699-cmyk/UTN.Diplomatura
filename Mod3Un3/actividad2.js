@@ -11,3 +11,4 @@ texto.addEventListener("keyup", function(){
     
 })
 
+// disculpe profe voy medio demorado por el tema de mi trabajo 
